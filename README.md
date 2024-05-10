@@ -8,4 +8,9 @@
 
 
 ## CONTENT TABLE
-### [WEEK-0 Functions, Varibles](https://cs50.harvard.edu/python/2022/weeks/0/)
+
+### [WEEK-0](https://github.com/JayAether/CS50P/tree/main/problem_set0) - [Functions, Varibles](https://cs50.harvard.edu/python/2022/weeks/0/)
+[Indoor Voice](https://github.com/JayAether/CS50P/tree/main/problem_set0/indoors)
+
+
+### [WEEK-1

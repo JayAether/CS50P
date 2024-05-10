@@ -1,5 +1,5 @@
 # Note Manager
-#### Video Demo: <[https://youtu.be/sXyeudDA40E]>
+#### Video Demo: sorry, kinda private. i still sent it to harvard though! 
 #### Description:
 
 ## note manager is used to manage notes, create notes, write notes, turn notes into pdfs, deletes notes.

@@ -3,9 +3,9 @@
 ## CERTIFICATE
 ![CS50P](https://github.com/JayAether/CS50P/assets/164334961/8fb7aad9-8ddd-4a68-b097-d921f9344385)
 
-
 ## DESCLAIMER 
-
+❗ The following codes are for educational purpose only and not intended to be used / submitted as your own solutions.
+❗ Cheating violates the [Academic Honesty](https://cs50.harvard.edu/python/2022/honesty/) of the course, not to mention it's totally dumn and pointless if you actually do want to learn programming.
 
 ## CONTENT TABLE
 
